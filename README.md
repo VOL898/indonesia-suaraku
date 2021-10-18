@@ -1,1 +1,3 @@
-# indonesia-suaraku
+# Indonesia Suaraku
+
+This is a project for my Human & Computer Interaction class in Binus University Semester 4 along with 2 of my teammates. Here we wanted to create a mobile app to vote for elections in our country. Here however, we focus more on the UI for the users to feel comfortable to use the app. We used the help of Figma to create this. The idea emerged because elections couldn't be held as we were in the pandemic of COVID-19, and above that, there were many people who were not honest on their choice, making invalid results. This app aims to reduce these results as people could choose in their own time and they did not have to come to booths to vote. We believe that this app would be beneficial for the society.
